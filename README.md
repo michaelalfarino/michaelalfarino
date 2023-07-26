@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hey, I'm Michael! 👋
+
+[![GitHub Badge](https://img.shields.io/badge/michaelalfarino-black?logo=github&link=https%3A%2F%2Fgithub.com%2Fmichaelalfarino%2F
+)](https://github.com/michaelalfarino)
+[![Linkedin Badge](https://img.shields.io/badge/michaelalfarino-blue?logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichaelalfarino%2F)](https://www.linkedin.com/in/michaelalfarino/)
+[![Discord Badge](https://img.shields.io/badge/michaelalfarino-%23282b30?logo=discord&logoColor=%237289da&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F433593016872337408)](https://discordapp.com/users/433593016872337408)
+[![Gmail Badge](https://img.shields.io/badge/m.alfarino-c14438?logo=gmail&logoColor=white&link=mailto%3Am.alfarino%40gmail.com
+)](mailto:m.alfarino@gmail.com)
+
+Hey there! I'm Michael, a data enthusiast and fresh grad from ITB. I've got a thing for Python, stats, and machine learning algorithms. Curiosity is my superpower, and I'm on a mission to apply data-driven magic to real-world challenges. Let's geek out together and turn data into something awesome as a data scientist!
 
 <!--
 **michaelalfarino/michaelalfarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
